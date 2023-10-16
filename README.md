@@ -1,9 +1,9 @@
 # Mob-app
-Shoping list mobile app
+Shopping list mobile app
 
-#Html , CSS & Js
+#Html, CSS & Js
 
-#Used firebase for real time cloud data base
+#Used Firebase for real-time  database
 
 #Deployed on Netlify
 
